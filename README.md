@@ -23,3 +23,30 @@
 
 <img width="1285" height="716" alt="image" src="https://github.com/user-attachments/assets/9ba4c79e-2bf6-4d60-bc63-d14859ed0494" />
 
+
+### Key KPIs
+
+-  YTD Sales: $2.18M
+-  QTD Sales: $811.09K
+-  Products Sold (YTD): 27.75K
+-  Total Reviews: 19.42M
+
+### Key Insights
+
+- Sales show a strong upward trend in the last quarter
+- Peak performance observed in November & December
+- Men Shoes category contributes the highest sales (~43%)
+- Some categories like Mobile & Accessories underperform
+- High review count indicates strong customer engagement
+
+### Dashboard Features
+
+- Interactive filters (Product, Quarter)
+- Sales analysis by:
+- Month 
+- Week 
+- Product Category 
+- Top 5 products by:
+1. Sales 
+2. Reviews 
+- Clean and professional UI design

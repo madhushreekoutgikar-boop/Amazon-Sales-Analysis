@@ -12,3 +12,8 @@
 - Analyze sales trends over time (monthly & weekly)
 - Evaluate customer engagement using reviews
 - Provide actionable insights for business growth
+
+### Dashboard Preview
+
+<img width="1285" height="716" alt="image" src="https://github.com/user-attachments/assets/9ba4c79e-2bf6-4d60-bc63-d14859ed0494" />
+

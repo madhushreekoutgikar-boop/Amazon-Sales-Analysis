@@ -42,11 +42,15 @@
 ### Dashboard Features
 
 - Interactive filters (Product, Quarter)
+  
 - Sales analysis by:
-- Month 
-- Week 
-- Product Category 
+  1. Month 
+  2. Week
+     
+- Product Category
+  
 - Top 5 products by:
 1. Sales 
-2. Reviews 
+2. Reviews
+   
 - Clean and professional UI design

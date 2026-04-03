@@ -44,8 +44,8 @@
 - Interactive filters (Product, Quarter)
   
 - Sales analysis by:
-  1. Month 
-  2. Week
+  * Month 
+  * Week
      
 - Product Category
   

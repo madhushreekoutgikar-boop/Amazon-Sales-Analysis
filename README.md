@@ -1,4 +1,4 @@
-# Amazon Sales Analysis          
+<img width="966" height="450" alt="image" src="https://github.com/user-attachments/assets/22298ff5-ec23-4658-9beb-ecf3a5c0c5c4" /># Amazon Sales Analysis          
 
 
   
@@ -17,7 +17,11 @@
 - Evaluate customer engagement using reviews
 - Provide actionable insights for business growth
 
-  
+ 
+ ### Data Modeling
+
+<img width="966" height="450" alt="image" src="https://github.com/user-attachments/assets/bed1f73b-0781-44c4-95a2-33e871e68b34" />
+
 
 ### Dashboard Preview
 
@@ -72,5 +76,8 @@ LIMIT 5;
 2. Improve underperforming segments (Mobile & Accessories)
 3. Leverage customer reviews for product improvements
 4. Increase inventory during peak months
+
+
+
    
 - Clean and professional UI design

@@ -1,12 +1,12 @@
        
-## Project Overview
+# Project Overview
 
   This project analyzes Amazon product sales data to uncover key business insights related to revenue, product performance, customer engagement, and seasonal trends.
   The dashboard is built using Power BI and supported by SQL-based analysis.   
 
-### PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
-# KPI's REQUIREMENT
+### KPI's REQUIREMENT
 
 ➤ YTD Sales: Monitor year-to-date sales to gauge the overall revenue performance over time.
 

@@ -7,7 +7,7 @@
   This project analyzes Amazon product sales data to uncover key business insights related to revenue, product performance, customer engagement, and seasonal trends.
   The dashboard is built using Power BI and supported by SQL-based analysis.   
 
-### Problem Statement
+## Problem Statement
 
 ➤ YTD Sales: Monitor year-to-date sales to gauge the overall revenue performance over time.
 
@@ -18,7 +18,7 @@
 ➤ YTD Reviews: Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
   
 
-### Objectives
+## Objectives
 
 - Track overall sales performance (YTD & QTD)  
 - Identify top-performing products and categories
@@ -27,24 +27,24 @@
 - Provide actionable insights for business growth
 
  
- ### Data Modeling
+ ## Data Modeling
 
 <img width="966" height="450" alt="image" src="https://github.com/user-attachments/assets/bed1f73b-0781-44c4-95a2-33e871e68b34" />
 
 
-### Dashboard Preview
+## Dashboard Preview
 
 <img width="1285" height="716" alt="image" src="https://github.com/user-attachments/assets/9ba4c79e-2bf6-4d60-bc63-d14859ed0494" />
 
 
-### Key KPIs
+## Key KPIs
 
 -  YTD Sales: $2.18M
 -  QTD Sales: $811.09K
 -  Products Sold (YTD): 27.75K
 -  Total Reviews: 19.42M
 
-### Key Insights
+## Key Insights
 
 - Sales show a strong upward trend in the last quarter
 - Peak performance observed in November & December
@@ -52,7 +52,7 @@
 - Some categories like Mobile & Accessories underperform
 - High review count indicates strong customer engagement
 
-### Dashboard Features
+## Dashboard Features
 
 - Interactive filters (Product, Quarter)
   
@@ -67,7 +67,7 @@
   * Reviews
 
 
-### SQL Analysis (Sample Queries)
+## SQL Analysis (Sample Queries)
 
 🔹 Total Sales
 SELECT SUM(sales) FROM amazon_data;
@@ -79,7 +79,7 @@ GROUP BY product_name
 ORDER BY revenue DESC
 LIMIT 5;
 
-### Business Recommendations
+## Business Recommendations
 
 1. Focus marketing on high-performing categories
    

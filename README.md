@@ -83,13 +83,8 @@ LIMIT 5;
 
 1. Focus marketing on high-performing categories
    
-3. Improve underperforming segments (Mobile & Accessories)
+2. Improve underperforming segments (Mobile & Accessories)
    
-5. Leverage customer reviews for product improvements
+3. Leverage customer reviews for product improvements
    
-7. Increase inventory during peak months
-
-
-
-   
-- Clean and professional UI design
+4. Increase inventory during peak months

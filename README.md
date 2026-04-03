@@ -50,7 +50,27 @@
 - Product Category
   
 - Top 5 products by:
-1. Sales 
-2. Reviews
+  * Sales 
+  * Reviews
+
+
+### SQL Analysis (Sample Queries)
+
+🔹 Total Sales
+SELECT SUM(sales) FROM amazon_data;
+
+🔹 Top Products
+SELECT product_name, SUM(sales) AS revenue
+FROM amazon_data
+GROUP BY product_name
+ORDER BY revenue DESC
+LIMIT 5;
+
+### Business Recommendations
+
+1. Focus marketing on high-performing categories
+2. Improve underperforming segments (Mobile & Accessories)
+3. Leverage customer reviews for product improvements
+4. Increase inventory during peak months
    
 - Clean and professional UI design

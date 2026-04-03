@@ -9,8 +9,6 @@
 
 ### PROBLEM STATEMENT
 
-### KPI's REQUIREMENT
-
 ➤ YTD Sales: Monitor year-to-date sales to gauge the overall revenue performance over time.
 
 ➤ QTD Sales: Track quarterly sales figures to identify sales trends and fluctuations.

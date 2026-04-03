@@ -4,6 +4,17 @@
   This project analyzes Amazon product sales data to uncover key business insights related to revenue, product performance, customer engagement, and seasonal trends.
   The dashboard is built using Power BI and supported by SQL-based analysis.   
 
+### PROBLEM STATEMENT
+
+# KPI's REQUIREMENT
+
+➤ YTD Sales: Monitor year-to-date sales to gauge the overall revenue performance over time.
+
+➤ QTD Sales: Track quarterly sales figures to identify sales trends and fluctuations.
+
+➤ YTD Products Sold: Analyse the total number of products sold throughout the year to understand product movement.
+
+➤ YTD Reviews: Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
   
 
 ### Objectives

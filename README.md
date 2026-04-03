@@ -1,7 +1,4 @@
-<img width="966" height="450" alt="image" src="https://github.com/user-attachments/assets/22298ff5-ec23-4658-9beb-ecf3a5c0c5c4" /># Amazon Sales Analysis          
-
-
-  
+       
 ## Project Overview
 
   This project analyzes Amazon product sales data to uncover key business insights related to revenue, product performance, customer engagement, and seasonal trends.
@@ -73,9 +70,12 @@ LIMIT 5;
 ### Business Recommendations
 
 1. Focus marketing on high-performing categories
-2. Improve underperforming segments (Mobile & Accessories)
-3. Leverage customer reviews for product improvements
-4. Increase inventory during peak months
+   
+3. Improve underperforming segments (Mobile & Accessories)
+   
+5. Leverage customer reviews for product improvements
+   
+7. Increase inventory during peak months
 
 
 
